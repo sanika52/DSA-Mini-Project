@@ -1,3 +1,6 @@
+# Currency Converter  
+A user-friendly currency converter application using Python and Tkinter. The app allows users to input an amount, select currencies for conversion, and display the converted value. Implemented error handling and a clear interface, supporting seamless and accurate currency conversions for multiple currencies. This project showcases proficiency in GUI development and basic financial programming.
+
 # Predictive Search System
 This is an Autocomplete System built using a Trie (Prefix Tree). It efficiently
 stores words and provides real-time word suggestions based on a user-provided
